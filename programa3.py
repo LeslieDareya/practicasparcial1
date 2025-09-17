@@ -1,4 +1,5 @@
 # Hacer un programa que lea 10 números y los almacene en un arreglo  
+# Make a program that reads 10 numbers and stores them in an array.
 
 a = [0,0,0,0,0,0,0,0,0,0]  
 # Crea una lista de 10 elementos inicializados en 0 / Creates a list of 10 elements initialized to 0

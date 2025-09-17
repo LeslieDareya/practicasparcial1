@@ -2,6 +2,7 @@
 #caracteres
 #se metera a una lista, cuando finalice el programa nos mostrara cuantos elementos numericos y cuantos
 #caracteres hay en cada estructura.
+#Write a program that reads 10 inputs. If the input is a number, it will be stored in an array. If the input is a character or a group of characters, it will be stored in a list. When the program finishes, it should display how many numeric elements and how many character elements were stored in each structure.
 
 arr = [-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]  # arreglo para almacenar números / array to store numbers
 car = []  # lista para almacenar caracteres / list to store characters

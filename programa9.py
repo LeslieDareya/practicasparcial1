@@ -5,9 +5,6 @@
 # 1. las cadenas NO deben tener espacios, 2. la cadena solo puede tener mayuscula la primer letra, 
 #3. obligatoriamente debe tener todas las vocales. El programa no termina hasta que la lista tenga 5 elementos.
 
-
-
-
 #Create a program that stores strings in a list, where the strings do not contain spaces, only the first letter is uppercase, must contain all the vowels, and the program does not end until the list has five elements that meet these conditions.
 
 
