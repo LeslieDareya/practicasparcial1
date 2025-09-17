@@ -4,7 +4,7 @@
 #Crear un programa que en una lista se introduzca cadenas de caracteres con las siguientes restricciones:
 # 1. las cadenas NO deben tener espacios, 2. la cadena solo puede tener mayuscula la primer letra, 
 #3. obligatoriamente debe tener todas las vocales. El programa no termina hasta que la lista tenga 5 elementos.
-#Perfecto, Leslie, aquí tienes todo junto en una sola frase tipo descripción de tarea:
+
 
 
 
